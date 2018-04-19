@@ -1,24 +1,3 @@
-/*Complete the function solveMeFirst to compute the sum of two integers.
+### Problem Statement
 
-Function prototype:
-
-int solveMeFirst(int x, int y);
-
-where,
-
-x is the first integer input.
-y is the second integer input
-
-Return values
-sum of the above two integers
-
-Sample Input
-x = 2
-y = 3
-
-Sample Output
-5
-
-Explanation
-
-The sum of the two integers x and y is computed as: 2+3 = 5. */
+![image](https://user-images.githubusercontent.com/36649115/39015123-43a9b9e6-43d1-11e8-933c-4774eac646a1.png)
