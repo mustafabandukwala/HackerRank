@@ -7,3 +7,5 @@ List of all the problems solved on HackerRank:
 - A Very Big Sum - Path(HackerRank/Algorithms/Warmup/A Very Big Sum)
 - Diagonal Difference - Path(HackerRank/Algorithms/Warmup/Diagonal Difference)
 - Plus Minus - Path(HackerRank/Algorithms/Warmup/Plus Minus)
+- Staircase - Path(HackerRank/Algorithms/Warmup/Staircase)
+- Mini-Max Sum - Path(HackerRank/Algorithms/Warmup/Mini-Max Sum)
