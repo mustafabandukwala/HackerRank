@@ -9,3 +9,4 @@ List of all the problems solved on HackerRank:
 - Plus Minus - Path(HackerRank/Algorithms/Warmup/Plus Minus)
 - Staircase - Path(HackerRank/Algorithms/Warmup/Staircase)
 - Mini-Max Sum - Path(HackerRank/Algorithms/Warmup/Mini-Max Sum)
+- Grading Students - Path(HackerRank/Algorithms/Implementation/Grading Students)
