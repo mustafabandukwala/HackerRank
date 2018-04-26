@@ -12,3 +12,6 @@ List of all the problems solved on HackerRank:
 - Grading Students - Path(HackerRank/Algorithms/Implementation/Grading Students)
 - Security Functions - Path(HackerRank/Security/Functions/Security Functions)
 - Security Functions 2 - Path(HackerRank/Security/Functions/Security Functions 2)
+- Security Bijective Functions - Path(HackerRank/Security/Functions/Security Bijective Functions)
+- Security Permutations - Path(HackerRank/Security/Functions/Security Permutations)
+- Security Involution - Path(HackerRank/Security/Functions/Security Involution)
