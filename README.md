@@ -15,3 +15,5 @@ List of all the problems solved on HackerRank:
 - Security Bijective Functions - Path(HackerRank/Security/Functions/Security Bijective Functions)
 - Security Permutations - Path(HackerRank/Security/Functions/Security Permutations)
 - Security Involution - Path(HackerRank/Security/Functions/Security Involution)
+- Security Key Spaces - Path(HackerRank/Security/Terminology and Concepts/Security Key Spaces)
+- Message Space and Ciphertext Space - Path(HackerRank/Security/Terminology and Concepts/Security - Message Space and Ciphertext Space)
