@@ -17,3 +17,4 @@ List of all the problems solved on HackerRank:
 - Security Involution - Path(HackerRank/Security/Functions/Security Involution)
 - Security Key Spaces - Path(HackerRank/Security/Terminology and Concepts/Security Key Spaces)
 - Message Space and Ciphertext Space - Path(HackerRank/Security/Terminology and Concepts/Security - Message Space and Ciphertext Space)
+- Security Encryption Scheme - Path(HackerRank/Security/Terminology and Concepts/Security Encryption Scheme)
