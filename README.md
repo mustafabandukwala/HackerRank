@@ -20,3 +20,5 @@ List of all the problems solved on HackerRank:
 - Security Encryption Scheme - Path(HackerRank/Security/Terminology and Concepts/Security Encryption Scheme)
 - Find the Point - Path(HackerRank/Mathematics/Fundamentals/Find the Point)
 - Maximum Draws - Path(HackerRank/Mathematics/Fundamentals/Maximum Draws)
+- Handshake - Path(HackerRank/Mathematics/Fundamentals/Handshake)
+- Minimum Height Triangle - Path(HackerRank/Mathematics/Fundamentals/Minimum Height Triangle)
