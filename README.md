@@ -22,3 +22,6 @@ List of all the problems solved on HackerRank:
 - Maximum Draws - Path(HackerRank/Mathematics/Fundamentals/Maximum Draws)
 - Handshake - Path(HackerRank/Mathematics/Fundamentals/Handshake)
 - Minimum Height Triangle - Path(HackerRank/Mathematics/Fundamentals/Minimum Height Triangle)
+- Army Game - Path(HackerRank/Mathematics/Fundamentals/Army Game)
+- Connecting Towns - Path(HackerRank/Mathematics/Fundamentals/Connecting Towns)
+- Cutting Paper Squares - Path(HackerRank/Mathematics/Fundamentals/Cutting Paper Squares)
