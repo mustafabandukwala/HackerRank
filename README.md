@@ -25,3 +25,5 @@ List of all the problems solved on HackerRank:
 - Army Game - Path(HackerRank/Mathematics/Fundamentals/Army Game)
 - Connecting Towns - Path(HackerRank/Mathematics/Fundamentals/Connecting Towns)
 - Cutting Paper Squares - Path(HackerRank/Mathematics/Fundamentals/Cutting Paper Squares)
+- Summing the N series - Path(HackerRank/Mathematics/Fundamentals/Summing the N series)
+- Identify Smith Numbers - Path(HackerRank/Mathematics/Number Theory/Identify Smith Numbers)
