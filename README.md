@@ -26,4 +26,6 @@ List of all the problems solved on HackerRank:
 - Connecting Towns - Path(HackerRank/Mathematics/Fundamentals/Connecting Towns)
 - Cutting Paper Squares - Path(HackerRank/Mathematics/Fundamentals/Cutting Paper Squares)
 - Summing the N series - Path(HackerRank/Mathematics/Fundamentals/Summing the N series)
+- Restaurant - Path(HackerRank/Mathematics/Fundamentals/Restaurant)
+- Strange Grid Again - Path(HackerRank/Mathematics/Fundamentals/Strange Grid Again)
 - Identify Smith Numbers - Path(HackerRank/Mathematics/Number Theory/Identify Smith Numbers)
