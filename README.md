@@ -28,4 +28,5 @@ List of all the problems solved on HackerRank:
 - Summing the N series - Path(HackerRank/Mathematics/Fundamentals/Summing the N series)
 - Restaurant - Path(HackerRank/Mathematics/Fundamentals/Restaurant)
 - Strange Grid Again - Path(HackerRank/Mathematics/Fundamentals/Strange Grid Again)
+- Halloween Party - Path(HackerRank/Mathematics/Fundamentals/Halloween Party)
 - Identify Smith Numbers - Path(HackerRank/Mathematics/Number Theory/Identify Smith Numbers)
