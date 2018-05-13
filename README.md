@@ -10,6 +10,8 @@ List of all the problems solved on HackerRank:
 - Staircase - Path(HackerRank/Algorithms/Warmup/Staircase)
 - Mini-Max Sum - Path(HackerRank/Algorithms/Warmup/Mini-Max Sum)
 - Grading Students - Path(HackerRank/Algorithms/Implementation/Grading Students)
+- Kangaroo - Path(HackerRank/Algorithms/Implementation/Kangaroo)
+- Divisible Sum Pairs - Path(HackerRank/Algorithms/Implementation/Divisible Sum Pairs)
 - Security Functions - Path(HackerRank/Security/Functions/Security Functions)
 - Security Functions 2 - Path(HackerRank/Security/Functions/Security Functions 2)
 - Security Bijective Functions - Path(HackerRank/Security/Functions/Security Bijective Functions)
