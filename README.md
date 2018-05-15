@@ -14,6 +14,7 @@ List of all the problems solved on HackerRank:
 - Divisible Sum Pairs - Path(HackerRank/Algorithms/Implementation/Divisible Sum Pairs)
 - Day of the Programmer - Path(HackerRank/Algorithms/Implementation/Day of the Programmer)
 - Utopian Tree - Path(HackerRank/Algorithms/Implementation/Utopian Tree)
+- Angry Professor - Path(HackerRank/Algorithms/Implementation/Angry Professor)
 - Security Functions - Path(HackerRank/Security/Functions/Security Functions)
 - Security Functions 2 - Path(HackerRank/Security/Functions/Security Functions 2)
 - Security Bijective Functions - Path(HackerRank/Security/Functions/Security Bijective Functions)
