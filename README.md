@@ -1,6 +1,7 @@
 # HackerRank
 List of all the problems solved on HackerRank:
 
+### Algorithms
 - Solve Me First - Path(HackerRank/Algorithms/Warmup/Solve Me First)
 - Simple Array Sum - Path(HackerRank/Algorithms/Warmup/Simple Array Sum)
 - Compare the Triplets - Path(HackerRank/Algorithms/Warmup/Compare the Triplets)
@@ -15,6 +16,11 @@ List of all the problems solved on HackerRank:
 - Day of the Programmer - Path(HackerRank/Algorithms/Implementation/Day of the Programmer)
 - Utopian Tree - Path(HackerRank/Algorithms/Implementation/Utopian Tree)
 - Angry Professor - Path(HackerRank/Algorithms/Implementation/Angry Professor)
+- Camel Case - Path(HackerRank/Algorithms/Strings/Camel Case)
+- HackerRank in a String - Path(HackerRank/Algorithms/Strings/HackerRank in a String)
+- Pangrams - Path(HackerRank/Algorithms/Strings/Pangrams)
+
+### Security
 - Security Functions - Path(HackerRank/Security/Functions/Security Functions)
 - Security Functions 2 - Path(HackerRank/Security/Functions/Security Functions 2)
 - Security Bijective Functions - Path(HackerRank/Security/Functions/Security Bijective Functions)
@@ -23,6 +29,8 @@ List of all the problems solved on HackerRank:
 - Security Key Spaces - Path(HackerRank/Security/Terminology and Concepts/Security Key Spaces)
 - Security - Message Space and Ciphertext Space - Path(HackerRank/Security/Terminology and Concepts/Security - Message Space and Ciphertext Space)
 - Security Encryption Scheme - Path(HackerRank/Security/Terminology and Concepts/Security Encryption Scheme)
+
+### Mathematics
 - Find the Point - Path(HackerRank/Mathematics/Fundamentals/Find the Point)
 - Maximum Draws - Path(HackerRank/Mathematics/Fundamentals/Maximum Draws)
 - Handshake - Path(HackerRank/Mathematics/Fundamentals/Handshake)
