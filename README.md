@@ -17,6 +17,8 @@ List of all the problems solved on HackerRank:
 - Utopian Tree - Path(HackerRank/Algorithms/Implementation/Utopian Tree)
 - Angry Professor - Path(HackerRank/Algorithms/Implementation/Angry Professor)
 - Taum and Birthday - Path(HackerRank/Algorithms/Implementation/Taum and Birthday)
+- Breaking the Records - Path(HackerRank/Algorithms/Implementation/Breaking the Records)
+- Apple and Orange - Path(HackerRank/Algorithms/Implementation/Apple and Orange)
 - Camel Case - Path(HackerRank/Algorithms/Strings/Camel Case)
 - HackerRank in a String - Path(HackerRank/Algorithms/Strings/HackerRank in a String)
 - Pangrams - Path(HackerRank/Algorithms/Strings/Pangrams)
