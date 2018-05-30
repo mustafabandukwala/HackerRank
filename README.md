@@ -27,6 +27,7 @@ List of all the problems solved on HackerRank:
 - Electronics Shop - Path(HackerRank/Algorithms/Implementation/Electronics Shop)
 - Cats and a Mouse - Path(HackerRank/Algorithms/Implementation/Cats and a Mouse)
 - The Hurdle Race - Path(HackerRank/Algorithms/Implementation/The Hurdle Race)
+- Designer PDF Viewer - Path(HackerRank/Algorithms/Implementation/DesignerPDFViewer)
 - Camel Case - Path(HackerRank/Algorithms/Strings/Camel Case)
 - HackerRank in a String - Path(HackerRank/Algorithms/Strings/HackerRank in a String)
 - Pangrams - Path(HackerRank/Algorithms/Strings/Pangrams)
