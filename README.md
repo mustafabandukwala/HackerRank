@@ -31,6 +31,8 @@ List of all the problems solved on HackerRank:
 - Camel Case - Path(HackerRank/Algorithms/Strings/Camel Case)
 - HackerRank in a String - Path(HackerRank/Algorithms/Strings/HackerRank in a String)
 - Pangrams - Path(HackerRank/Algorithms/Strings/Pangrams)
+- Alternating Characters - Path(HackerRank/Algorithms/Strings/Alternating Characters)
+- Making Anagrams - Path(HackerRank/Algorithms/Strings/Making Anagrams)
 
 ### Security
 - Security Functions - Path(HackerRank/Security/Functions/Security Functions)
