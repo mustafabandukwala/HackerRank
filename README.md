@@ -57,3 +57,6 @@ List of all the problems solved on HackerRank:
 - Strange Grid Again - Path(HackerRank/Mathematics/Fundamentals/Strange Grid Again)
 - Halloween Party - Path(HackerRank/Mathematics/Fundamentals/Halloween Party)
 - Identify Smith Numbers - Path(HackerRank/Mathematics/Number Theory/Identify Smith Numbers)
+
+### 30 Days of Code
+- Day 0: Hello, World. - Path(HackerRank/30 Days of Code/Day 0: Hello, World.)
