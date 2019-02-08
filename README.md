@@ -61,3 +61,4 @@ List of all the problems solved on HackerRank:
 ### 30 Days of Code
 - Day 0: Hello, World. - Path(HackerRank/30 Days of Code/Day 0: Hello, World.)
 - Operators - Path(HackerRank/30 Days of Code/Day 2/Operators)
+- Intro to Conditional Statements - Path(HackerRank/30 Days of Code/Day 2/Intro to Conditional Statements)
