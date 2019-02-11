@@ -64,3 +64,4 @@ List of all the problems solved on HackerRank:
 - Intro to Conditional Statements - Path(HackerRank/30 Days of Code/Day 2/Intro to Conditional Statements)
 - Loops - Path(HackerRank/30 Days of Code/Day 5/Loops)
 - LetsReview - Path(HackerRank/30 Days of Code/Day 6/LetsReview)
+- Arrays - Path(HackerRank/30 Days of Code/Day 7/Arrays)
