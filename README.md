@@ -66,3 +66,4 @@ List of all the problems solved on HackerRank:
 - LetsReview - Path(HackerRank/30 Days of Code/Day 6/LetsReview)
 - Arrays - Path(HackerRank/30 Days of Code/Day 7/Arrays)
 - Recusrion - Path(HackerRank/30 Days of Code/Day 9/Recusrion)
+- Binary Numbers - Path(HackerRank/30 Days of Code/Day 10/Binary Numbers)
