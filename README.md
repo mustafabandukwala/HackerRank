@@ -69,3 +69,4 @@ List of all the problems solved on HackerRank:
 - Binary Numbers - Path(HackerRank/30 Days of Code/Day 10/Binary Numbers)
 - Linked List - Path(HackerRank/30 Days of Code/Day 15/Linked List)
 - Exceptions - String To Integer - Path(HackerRank/30 Days of Code/Day 16/Exceptions - String To Integer)
+- Binary Search Trees - Path(HackerRank/30 Days of Code/Day 22/Binary Search Trees)
