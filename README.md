@@ -71,3 +71,4 @@ List of all the problems solved on HackerRank:
 - Exceptions - String To Integer - Path(HackerRank/30 Days of Code/Day 16/Exceptions - String To Integer)
 - Binary Search Trees - Path(HackerRank/30 Days of Code/Day 22/Binary Search Trees)
 - Nested Logic - Path(HackerRank/30 Days of Code/Day 26/Nested Logic)
+- Testing - Path(HackerRank/30 Days of Code/Day 27/Testing)
