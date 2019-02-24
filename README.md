@@ -77,3 +77,4 @@ List of all the problems solved on HackerRank:
 - Bubble Sort - Path(HackerRank/Interview Preparation Kit/Sorting/Bubble Sort)
 - Mark and Toys - Path(HackerRank/Interview Preparation Kit/Sorting/Mark and Toys)
 - Left Rotation - Path(HackerRank/Interview Preparation Kit/Arrays/Left Rotation)
+- Balanced Brackets - Path(HackerRank/Interview Preparation Kit/Stacks and Queues/Balanced Brackets)
