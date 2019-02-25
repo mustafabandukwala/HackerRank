@@ -72,6 +72,7 @@ List of all the problems solved on HackerRank:
 - Binary Search Trees - Path(HackerRank/30 Days of Code/Day 22/Binary Search Trees)
 - Nested Logic - Path(HackerRank/30 Days of Code/Day 26/Nested Logic)
 - Testing - Path(HackerRank/30 Days of Code/Day 27/Testing)
+- Queues and Stacks - Path(HackerRank/30 Days of Code/Day 18/Queues and Stacks)
 
 ### Interview Preparation Kit
 - Bubble Sort - Path(HackerRank/Interview Preparation Kit/Sorting/Bubble Sort)
