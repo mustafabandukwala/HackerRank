@@ -73,7 +73,7 @@ List of all the problems solved on HackerRank:
 - Nested Logic - Path(HackerRank/30 Days of Code/Day 26/Nested Logic)
 - Testing - Path(HackerRank/30 Days of Code/Day 27/Testing)
 - Queues and Stacks - Path(HackerRank/30 Days of Code/Day 18/Queues and Stacks)
-
+- Dictionaries and Maps - Path(HackerRank/30 Days of Code/Day 8/Dictionaries and Maps)
 ### Interview Preparation Kit
 - Bubble Sort - Path(HackerRank/Interview Preparation Kit/Sorting/Bubble Sort)
 - Mark and Toys - Path(HackerRank/Interview Preparation Kit/Sorting/Mark and Toys)
