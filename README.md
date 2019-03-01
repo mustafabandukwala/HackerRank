@@ -75,7 +75,7 @@ List of all the problems solved on HackerRank:
 - Queues and Stacks - Path(HackerRank/30 Days of Code/Day 18/Queues and Stacks)
 - Dictionaries and Maps - Path(HackerRank/30 Days of Code/Day 8/Dictionaries and Maps)
 - Sorting - Path(HackerRank/30 Days of Code/Day 20/Sorting)
-
+- Running Time and Complexity - Path(HackerRank/30 Days of Code/Day 25/Running Time and Complexity)
 ### Interview Preparation Kit
 - Bubble Sort - Path(HackerRank/Interview Preparation Kit/Sorting/Bubble Sort)
 - Mark and Toys - Path(HackerRank/Interview Preparation Kit/Sorting/Mark and Toys)
